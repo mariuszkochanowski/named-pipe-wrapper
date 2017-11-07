@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleGUI", "ExampleGUI\Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedPipeWrapper.ZeroFormatter", "NamedPipeWrapper.ZeroFormatter\NamedPipeWrapper.ZeroFormatter.csproj", "{CB5976AE-7372-4589-B640-F5EF3B681E9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedPipeWrapper.ZeroFormatter.Tests", "NamedPipeWrapper.ZeroFormatter.Tests\NamedPipeWrapper.ZeroFormatter.Tests.csproj", "{6EA6D584-AFF7-423E-A881-A3BF6A991777}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,6 +80,18 @@ Global
 		{CB5976AE-7372-4589-B640-F5EF3B681E9B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{CB5976AE-7372-4589-B640-F5EF3B681E9B}.Release|x86.ActiveCfg = Release|Any CPU
 		{CB5976AE-7372-4589-B640-F5EF3B681E9B}.Release|x86.Build.0 = Release|Any CPU
+		{6EA6D584-AFF7-423E-A881-A3BF6A991777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA6D584-AFF7-423E-A881-A3BF6A991777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA6D584-AFF7-423E-A881-A3BF6A991777}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{6EA6D584-AFF7-423E-A881-A3BF6A991777}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{6EA6D584-AFF7-423E-A881-A3BF6A991777}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6EA6D584-AFF7-423E-A881-A3BF6A991777}.Debug|x86.Build.0 = Debug|Any CPU
+		{6EA6D584-AFF7-423E-A881-A3BF6A991777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA6D584-AFF7-423E-A881-A3BF6A991777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA6D584-AFF7-423E-A881-A3BF6A991777}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{6EA6D584-AFF7-423E-A881-A3BF6A991777}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{6EA6D584-AFF7-423E-A881-A3BF6A991777}.Release|x86.ActiveCfg = Release|Any CPU
+		{6EA6D584-AFF7-423E-A881-A3BF6A991777}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

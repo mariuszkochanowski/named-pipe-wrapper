@@ -1,6 +1,6 @@
 ﻿namespace NamedPipeWrapper.ZeroFormatter
 {
-    public class NamedPipeWrapperZeroFormatter
+    public static class NamedPipeWrapperZeroFormatter
 	{
 		public static void Initialize()
 		{
