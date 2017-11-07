@@ -20,7 +20,7 @@ namespace NamedPipeWrapper.ZeroFormatter.Tests
 				IntValue = -123456789
 			};
 
-			const int timeout = 10 * 1000;// ms
+			const int timeout = 3 * 1000;// ms
 
 			const string pipeName = "pipeTest1";
 
